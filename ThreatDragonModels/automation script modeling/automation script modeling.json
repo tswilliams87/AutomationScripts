@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "automation script modeling"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "automation model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
